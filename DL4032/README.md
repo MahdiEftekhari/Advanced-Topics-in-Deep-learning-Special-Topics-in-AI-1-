@@ -5,6 +5,6 @@ This repo archives the four projects designed for the 2025 offering of Advanced 
 | # | Project | Topic | Status |
 |---|---|---|---|
 | 1 | Normalization in Transfer Learning | BatchNorm vs. LayerNorm vs. FRN | ✅ Complete |
-| 2 | Show and Tell (2015) | Image captioning | ✅ Complete (external repo) |
-| 3 | QLoRA: GPT-2 on SQuAD | Efficient fine-tuning | ✅ Complete |
-| 4 | SimSiam Paper Review | Self-supervised learning | ✅ Complete |
+| 2 | SimSiam Paper Review | Self-supervised learning | ✅ Complete |
+| 3 | Show and Tell (2015) | Image captioning | ✅ Complete (external repo) |
+| 4 | QLoRA: GPT-2 on SQuAD | Efficient fine-tuning | ✅ Complete |
