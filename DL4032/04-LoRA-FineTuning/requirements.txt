@@ -1,0 +1,17 @@
+# Deep Learning Final Assignment — LoRA Fine-tuning
+#
+# transformers is pinned to <5 deliberately. The Trainer API changed in v5:
+#   v4:  Trainer(tokenizer=...)
+#   v5:  Trainer(processing_class=...)
+# The skeleton and reference use the v4 signature. If you upgrade, update the
+# Trainer call accordingly.
+
+torch>=2.0,<3.0
+transformers>=4.40,<5.0
+peft>=0.10,<1.0
+datasets>=2.18,<4.0
+evaluate>=0.4
+accelerate>=0.29
+matplotlib>=3.7
+numpy>=1.24
+pandas>=2.0
